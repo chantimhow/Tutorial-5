@@ -1,0 +1,8 @@
+Alice Kan
+ABC1234 3.43
+Bryan
+ABC2345 2.90
+Lee
+ABC3456 3.88
+May
+ADG1234 4.00

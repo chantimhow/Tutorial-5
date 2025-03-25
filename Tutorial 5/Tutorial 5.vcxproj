@@ -129,11 +129,20 @@
   <ItemGroup>
     <ClCompile Include="Exercise 1.cpp" />
     <ClCompile Include="Exercise 2.cpp" />
+    <ClCompile Include="Exercise 3.cpp" />
+    <ClCompile Include="Exercise 4.cpp" />
+    <ClCompile Include="Exercise 5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="employee.txt" />
+    <Text Include="Even.txt" />
     <Text Include="example.txt" />
     <Text Include="sum.txt" />
+    <Text Include="student.txt" />
+    <Text Include="test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="testavg.out" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

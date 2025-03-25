@@ -21,6 +21,15 @@
     <ClCompile Include="Exercise 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exercise 3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise 4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="example.txt">
@@ -32,5 +41,19 @@
     <Text Include="employee.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="student.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Even.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="test.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="testavg.out">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
